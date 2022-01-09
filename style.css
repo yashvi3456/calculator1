@@ -1,0 +1,21 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+}
+.ibox{
+    width: 100px;
+    height: 20px;
+    padding: auto;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.font{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#button1{
+    border: darkblue;
+    border-width: 4px;
+    background-color: darkgray;
+    
+}
